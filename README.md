@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Haoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-h&show_icons=true&theme=transparent)
+
 <!--
 **he-h/he-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
