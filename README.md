@@ -13,8 +13,8 @@
 - 📈 Revolutionizing urban mobility with AI.
 
 🤝 **Let's Connect!**
-- 📧 Drop a line at [myemail@domain.com](mailto:myemail@domain.com)
-- 🌍 Join my network on [LinkedIn](https://www.linkedin.com), [Twitter](https://twitter.com), and [ResearchGate](https://www.researchgate.net).
+- 📧 Drop a line at [he.haoyu1@northeastern.edu](mailto:he.haoyu1@northeastern.edu)
+- 🌍 Join my network on [LinkedIn](https://www.linkedin.com/in/haoyu-he/), [Twitter](https://twitter.com/Haoyu_He_), and [ResearchGate](https://www.researchgate.net/profile/Haoyu-He-10).
 
 "Exploring the future, one algorithm at a time!"
 
