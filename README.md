@@ -1,27 +1,22 @@
-# Welcome to Haoyu He's GitHub Page!
+# Welcome to Haoyu's World!
 
-👋 Hi, I'm Haoyu, a Ph.D. candidate at Northeastern University, exploring the fascinating intersection of machine learning, urban science, and environmental health.
+🎓 **Ph.D. Maverick**: Diving deep into the world of Civil and Environmental Engineering at Northeastern University. My compass? Machine learning and urban science.
 
-🌟 **What's New?**
-- 🛫 Recently attended ACM SIGSPATIAL 2023 in Germany, thanks to an NSF travel grant.
-- 🎓 Started my Ph.D. journey in 2023.
+🌟 **Achievements Unlocked**:
+- 🛩️ 2023: Soared with an NSF grant to ACM SIGSPATIAL in Germany.
+- 🎉 2023: The Northeastern Odyssey begins!
 
-🔍 **My Research**
-- Focusing on urban mobility and its impact during events like COVID-19.
+📚 **From Theory to Practice**: Sharpening my skills through teaching and mentoring tomorrow's tech leaders.
 
-📚 **Educational Path**
-- From Computer Science and Mathematics at RPI to Civil and Environmental Engineering at Northeastern.
+🔍 **Seeker of Knowledge**:
+- 🌐 Find me at the crossroads of data and environment.
+- 📈 Revolutionizing urban mobility with AI.
 
-💡 **Recognitions**
-- Proud recipient of NSF Travel Grant and a Magna Cum Laude graduate.
+🤝 **Let's Connect!**
+- 📧 Drop a line at [myemail@domain.com](mailto:myemail@domain.com)
+- 🌍 Join my network on [LinkedIn](https://www.linkedin.com), [Twitter](https://twitter.com), and [ResearchGate](https://www.researchgate.net).
 
-📖 **Teaching & Mentoring**
-- Sharing knowledge in Machine Learning and Foundations of Computer Science.
-
-📧 Interested in collaborating or chatting? Drop me a line at [he.haoyu1@northeastern.edu](mailto:he.haoyu1@northeastern.edu) or connect on [LinkedIn](https://www.linkedin.com) and [Twitter](https://twitter.com).
-
-Thanks for stopping by!
-
+"Exploring the future, one algorithm at a time!"
 
 ![Haoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-h&show_icons=true&theme=transparent)
 
