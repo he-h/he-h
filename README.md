@@ -14,7 +14,7 @@
 
 🤝 **Let's Connect!**
 - 📧 Drop a line at [he.haoyu1@northeastern.edu](mailto:he.haoyu1@northeastern.edu)
-- 🌍 Join my network on [LinkedIn](https://www.linkedin.com/in/haoyu-he/), [Twitter](https://twitter.com/Haoyu_He_), and [ResearchGate](https://www.researchgate.net/profile/Haoyu-He-10).
+- 🌍 Join my network on [LinkedIn](https://www.linkedin.com/in/haoyu-he/), [Twitter](https://twitter.com/Haoyu_He_), [Google Scholar](https://scholar.google.com/citations?user=jt5mkqsAAAAJ&hl=en), and [ResearchGate](https://www.researchgate.net/profile/Haoyu-He-10).
 
 "Exploring the future, one algorithm at a time!"
 
